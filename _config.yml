@@ -84,7 +84,7 @@ author:
   avatar           : "Career photo.JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Bloomington, IN"
-  employer         :
+  employer         : " https://economics.indiana.edu/index.html "
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -93,19 +93,19 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/ivan.dedyukhin.3/"
+  facebook         : "ivan.dedyukhin.3"
   foursquare       :
   github           : "Dedyukhin"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/duduhin/"
+  instagram        : "duduhin"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "duduhin"
