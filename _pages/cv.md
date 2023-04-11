@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[embed]http://dedyukhin.github.io/CV.pdf[/embed]
+<embed src = "https://dedyukhin.github.io/files/CV.pdf">
