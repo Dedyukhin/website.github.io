@@ -14,4 +14,4 @@ My name is Ivan Dedyukhin, and I'm currently pursuing a Ph.D. in Economics. I ob
 
 Navigation
 ======
-1. You can find my CV here
+1. You can find my CV [here](https://dedyukhin.github.io/cv/)
