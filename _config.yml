@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ivan Dedyukhin"
   avatar           : "Career photo.JPG"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Public economics, political economy"
+  employer         : "Indiana University"
   location         : "Bloomington, IN"
-  employer         : " https://economics.indiana.edu/index.html "
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
