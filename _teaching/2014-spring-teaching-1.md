@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Fundamentals of Economics for Business - 1 (Indiana University)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/Fund-Of-Econ-Bus-1-Indiana
+venue: "Indiana University, Department of Economics"
+date: 2023-08-22
+location: "Bloomington, IN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The first course in a two-course sequence that introduces business students to essential economic concepts. Examines the economic notions of cost and gains from trade, determinants of economic growth, consumer and firm behavior in competitive and non-competitive environments, the effects of taxation, externalities, moral hazard, and adverse selection, and basic game theory.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
+Fall 2023
 ======
