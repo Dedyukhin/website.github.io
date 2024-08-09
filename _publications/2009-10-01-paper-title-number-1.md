@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "Ownership, Asymmetric Information, and Quality of Care for the Elderly: Evidence From US Nursing Homes During the COVID-19 Pandemic"
+collection: working papers
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'The paper explores how increased transparency during the COVID-19 pandemic reduced the quality gap between for-profit and nonprofit nursing homes, as previously unobserved aspects of care quality became observable, narrowing initial disparities in infection rates.'
+date: 2024-08-08
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://academicpages.github.io/files/Nursing_homes_WP2024.pdf'
+citation: 'Alexeev, Michael V. and Dedyukhin, Ivan and Polishchuk, Leonid, Ownership, Asymmetric Information, and Quality of Care for the Elderly: Evidence From US Nursing Homes During the COVID-19 Pandemic (July 14, 2024). Available at SSRN: https://ssrn.com/abstract=4906864'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The paper explores how increased transparency during the COVID-19 pandemic reduced the quality gap between for-profit and nonprofit nursing homes, as previously unobserved aspects of care quality became observable, narrowing initial disparities in infection rates.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here]([http://academicpages.github.io/files/paper1.pdf](http://academicpages.github.io/files/Nursing_homes_WP2024.pdf))
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Alexeev, Michael V. and Dedyukhin, Ivan and Polishchuk, Leonid, Ownership, Asymmetric Information, and Quality of Care for the Elderly: Evidence From US Nursing Homes During the COVID-19 Pandemic (July 14, 2024). Available at SSRN: https://ssrn.com/abstract=4906864
