@@ -12,7 +12,11 @@ author_profile: true
 Working papers
 ---
 
-!include "_publications/Nursing_Homes.md"
+{% include base_path %}
+
+{% for post in site.working_papers reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Publications
 ---
