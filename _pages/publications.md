@@ -13,10 +13,7 @@ Working papers
 ---
 
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include _publications/Nursing_Homes.md %}
 
 Publications
 ---
