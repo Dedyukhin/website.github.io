@@ -12,7 +12,6 @@ author_profile: true
 Working papers
 ---
 
-{% include base_path %}
 {% include _publications/Nursing_Homes.md %}
 
 Publications
