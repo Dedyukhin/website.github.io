@@ -12,7 +12,10 @@ author_profile: true
 Working papers
 ---
 
+{% capture nursing_homes_content %}
 {% include _publications/Nursing_Homes.md %}
+{% endcapture %}
+{{ nursing_homes_content | markdownify }}
 
 Publications
 ---
